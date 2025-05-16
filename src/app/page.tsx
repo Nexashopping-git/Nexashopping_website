@@ -26,7 +26,7 @@ export default function Home() {
 
       <main className="flex-1">
         {/* Hero Section */}
-        <section className="w-full py-12 pl-18 md:py-24 lg:py-32 sm:bg-gradient-to-l from-zinc-500 via-stone-600 to-zinc-900  bg-gradient-to-t from-zinc-500 via-stone-600 to-zinc-900">
+        <section className="w-full py-12 lg:pl-18 md:py-24 lg:py-32 sm:bg-gradient-to-l from-zinc-500 via-stone-600 to-zinc-900  bg-gradient-to-t from-zinc-500 via-stone-600 to-zinc-900">
           <div className="container px-4">
             <div className="grid items-center gap-10 lg:grid-cols-2">
               {/* Text Content */}

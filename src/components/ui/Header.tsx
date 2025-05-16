@@ -21,7 +21,7 @@ export default function Header() {
             height={32}
             className="rounded"
           />
-          <span className="text-xl font-bold text-white hidden sm:inline">
+          <span className="text-xl font-bold text-white sm:inline">
             NexaShopping
           </span>
         </div>
